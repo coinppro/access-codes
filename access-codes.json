@@ -1,0 +1,6 @@
+{
+  "minute": { "code": "1234", "type": "minute", "value": 1 },
+  "day": { "code": "dgkdd", "type": "day", "value": 1 },
+  "7days": { "code": "123456", "type": "day", "value": 7 },
+  "30days": { "code": "1234567", "type": "day", "value": 30 }
+}
