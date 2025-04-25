@@ -1,6 +1,6 @@
 {
   "minute": { "code": "b234", "type": "minute", "value": 1 },
-  "day": { "code": "Y33d70", "type": "day", "value": 1 },
+  "day": { "code": "y33d70", "type": "day", "value": 1 },
   "7days": { "code": "b23456", "type": "day", "value": 7 },
   "30days": { "code": "b234567", "type": "day", "value": 30 }
 }
